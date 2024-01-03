@@ -10,7 +10,7 @@ Este código é uma aplicação web usando Flask, um framework web em Python. Ao
 
 ![1704266319464](image/README/1704266319464.png)
 
-Eu consegui fazer a api mas eu não consegui fazer no colaba ou jupyter do vs code
+Eu consegui fazer a api mas eu não consegui fazer no colab ou jupyter do vs code
 
 ### Tecnologias utilizadas
 
